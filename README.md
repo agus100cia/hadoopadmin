@@ -1,0 +1,2 @@
+# hadoopadmin
+Hadoop Administrator
